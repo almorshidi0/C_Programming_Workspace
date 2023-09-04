@@ -1,3 +1,3 @@
-# C Programming Projects
+# C Programming Workspace
 
-This repository contains my C programming projects.
+This repository contains my general purpose C codes.
