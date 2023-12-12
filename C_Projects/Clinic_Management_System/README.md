@@ -27,7 +27,7 @@ A C programming project for managing patient records, appointments, and reservat
 ## Getting Started
 
 1. Clone the repository.
-2. Compile `main.c`, `admin.c`, and `user.c`.
+2. Compile `main.c`, `admin.c`, and `user.c` with the `-o clinic` option.
 3. Execute the compiled binary.
    - On Linux: `./clinic`
    - On Windows: `clinic.exe`
